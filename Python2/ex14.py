@@ -16,7 +16,7 @@ print "I'd like to ask you a few questions."
 print "Do you like me %s?" % user_name
 likes = raw_input(prompt)
 
-print "What's the whether like today in %s?" % city
+print "What's the weather like today in %s?" % city
 weather = raw_input(prompt)
 
 print "What kind of computer do you have?"
